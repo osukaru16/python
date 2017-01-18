@@ -18,3 +18,4 @@ try:
 	print("De un hay ",resUno," monedas")
 except:
 	print("ERROR: El dato introducido no era un numero entero")
+

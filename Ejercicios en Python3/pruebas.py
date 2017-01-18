@@ -1,4 +1,2 @@
-nom = "supercalifragilisticoespialidoso"
-
-print (nom[:2]," ",nom[2])
-
+for item in range(1,101):
+    print("hey 猫", item)

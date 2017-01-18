@@ -1,0 +1,1 @@
+hey = "hola"print (hey[0]='c')

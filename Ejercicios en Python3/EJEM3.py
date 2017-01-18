@@ -1,0 +1,1 @@
+palabre = str(input("Escribe una palabra: "))inem = 0for item in palabra:	print(item)

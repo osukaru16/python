@@ -1,0 +1,1 @@
+def checkFilas(sudoku):	for columnas in range(0,len(sudoku)):		for filas in range(0,len(sudoku)):			if sudoku[columnas][filas]== sudoku[columnas][range(filas+1,len(sudoku))]:				print (sudoku[columnas][filas], len(sudoku))			else:				print("no entra", sudoku[columnas][filas+1:])array = [[1,2,3],         [2,3,1],         [3,1,2]]		 		 checkFilas(array)		 

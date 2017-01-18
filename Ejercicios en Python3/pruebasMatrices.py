@@ -1,0 +1,1 @@
+matriz = ["Neko","Inu","Tanuki","Inoshishi"]for cont in matriz:	print (cont)

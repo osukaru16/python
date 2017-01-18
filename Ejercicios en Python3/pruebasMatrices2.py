@@ -1,0 +1,1 @@
+matrix = []contador = 0for contador in range(0,100):	if contador % 2 ==0:		matrix.append(contador)print (matrix)
